@@ -1,4 +1,4 @@
-# Projet_Customers_and_Products_Analysis_SQL
+# Projet_Customers_and_Products_Analysis_SQL (Projet guidé sur DataQuest)
 L'analyse des données s'est avérée très efficace dans les ventes.
 En effet, nous pouvons extraire des indicateurs de performance clés (KPI) pour prendre des décisions plus intelligentes.
 Cela permet d'économiser du temps, des ressources et de l'argent.
