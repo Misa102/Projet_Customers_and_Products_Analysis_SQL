@@ -7,11 +7,11 @@ L'analyse des données de vente peut couvrir de nombreux aspects (ventes, produc
 L'objectif de ce projet est d'analyser les données d'une base de données d'enregistrements de ventes de modèles réduits de voitures et d'extraire des informations pour la prise de décision.
 
 Il y a des tables suivantes dans Data Base:
-Customers: données clients
-Employees: toutes les informations sur les employés
-Offices: informations sur les bureaux de vente
-Orders: bons de commande des clients
-OrderDetails: ligne de commande client pour chaque commande client
-Payments: enregistrements de paiement des clients
-Products: une liste de modèles réduits de voitures
-ProductLines: une liste des catégories de lignes de produits
+Customers: données clients; 
+Employees: toutes les informations sur les employés;
+Offices: informations sur les bureaux de vente;
+Orders: bons de commande des clients;
+OrderDetails: ligne de commande client pour chaque commande client;
+Payments: enregistrements de paiement des clients;
+Products: une liste de modèles réduits de voitures;
+ProductLines: une liste des catégories de lignes de produits;
